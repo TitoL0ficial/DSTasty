@@ -1,6 +1,6 @@
 # Curso Devsuperior - DSTasty
 
-![preview](./.assets/DSTasty.png)
+![preview](https://github.com/TitoL0ficial/assets/DSTasty.png)
 
 Projeto construído no curso Devsuperior.
 
